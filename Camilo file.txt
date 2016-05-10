@@ -1,3 +1,3 @@
-﻿﻿Hola, mi nombre es Camilo Morales
-Peña está aprendiendo git :D
-No seas putito, chico
+Nombre Profesor: Cristian Camilo Morales
+Nombre Estudiante: Jonathan Peña
+Tema de aprendizaje: GIT & Git workflow
